@@ -53,12 +53,6 @@ If you make changes and need to restart:
 npm run dev
 ```
 
-### 🏧 Build for Production  
-To create an optimized production build:
-
-```bash
-npm run build
-```
 
 ### 🚀 Start the Production Server  
 Once built, run the production server:
